@@ -1,7 +1,7 @@
 ![Copy of Education Poster - Made with PosterMyWall](https://user-images.githubusercontent.com/40401860/120841471-28c32080-c589-11eb-952e-350e535df229.jpg)
 ##### Design and Development
 
-##### Hi there 👋, my name is Prarita
+#### Hi there 👋, my name is Prarita
 
 I'm Prarita, and I do content on Design and Development. I really enjoy learning languages and frameworks like Spring MVC and Django, as well as work in an IT Firm as a Developer. I also enjoy designing games, training models and design in general.
 
