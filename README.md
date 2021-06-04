@@ -1,11 +1,25 @@
-### Hi there 👋, my name is Prarita
-#### Design and Development
 ![Design and Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg2enHe69IWCeBrLhR5AD_bGd275bn_llEQCYuZ5fvhD5LqdQezohTHgWl2_TvZ-6TQWo&usqp=CAU)
 
-I'm Prarita, and I do content on Design and Development. I really enjoy learning languages and frameworks like Spring MVC and Django, as well as work in an IT Firm as a Developer. I also enjoy designing games, training models and design in general.
+### Hi there 👋, my name is Prarita
+##### Design and Development
 
-Skills: C++/ Python 3/ Spring / REACT / JS / HTML / CSS
 
+I'm Prarita, and I do content on Design and Development. I really enjoy learning languages and frameworks like Spring MVC and Django, as well as work in an IT Firm as a Developer. I also enjoy designing ga![Uploading Copy of Education Poster - Made with PosterMyWall.jpg…]()
+mes, training models and design in general.
+
+## Skills and Experience:
+2 years - Software Developer Role (Full Stack) in IT Firm. 
+ 
+ 
+##Languages and Frameworks
+*C++
+*Python 3
+*Django
+*Spring MVC 
+*Machine Learning 
+*JS 
+*CSS
+ 
 - 🔭 I’m currently working on my own website. 
 
 
