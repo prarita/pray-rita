@@ -6,7 +6,7 @@
 I'm Prarita, and I do content on Design and Development. I really enjoy learning languages and frameworks like Spring MVC and Django, as well as work in an IT Firm as a Developer. I also enjoy designing games, training models and design in general.
 
 ### Skills and Experience:
-2 years - Software Developer Role (Full Stack) in IT Firm. 
+2 years - Software Developer in an IT Firm. 
  
  
 ### Languages and Frameworks
