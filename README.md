@@ -1,4 +1,4 @@
-![Copy of Education Poster - Made with PosterMyWall]()
+
 ##### Design and Development
 
 #### Hi there 👋, my name is Prarita
