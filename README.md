@@ -1,4 +1,4 @@
-![Copy of Education Poster - Made with PosterMyWall](https://user-images.githubusercontent.com/40401860/120841471-28c32080-c589-11eb-952e-350e535df229.jpg)
+![Copy of Education Poster - Made with PosterMyWall]()
 ##### Design and Development
 
 #### Hi there 👋, my name is Prarita
@@ -18,7 +18,7 @@ I'm Prarita, and I do content on Design and Development. I really enjoy learning
 *JS 
 *CSS
  
-## - 🔭 I’m currently working on my own website. 
+
 
 
 
