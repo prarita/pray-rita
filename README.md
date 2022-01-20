@@ -3,7 +3,7 @@
 
 #### Hi there 👋, my name is Prarita
 
-I'm Prarita, and I do content on Design and Development. I really enjoy learning languages and frameworks like Spring MVC and Django, as well as work in an IT Firm as a Developer. I also enjoy designing games, training models and design in general.
+I'm Prarita, and I do content on Design and Development. I enjoy learning languages and frameworks as Spring MVC, Django, working in an IT Firm in the Developer Role. I also enjoy designing games, training models and design in general.
 
 ### Skills and Experience:
 2 years - Software Developer in an IT Firm. 
