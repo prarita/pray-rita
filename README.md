@@ -1,7 +1,7 @@
 
 ##### Design and Development
 
-#### Hi there 👋, my name is Prarita
+#### Hi there 👋
 
 I'm Prarita, and I do content on Design and Development. I enjoy learning languages and frameworks as Django, working in an IT Firm in the Developer Role. I also enjoy designing games, training models and design in general.
 
